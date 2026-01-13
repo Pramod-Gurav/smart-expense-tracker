@@ -1,4 +1,4 @@
-# 💸 Smart Expense Tracker
+# Smart Expense Tracker
 
 Full-stack expense tracker built using FastAPI, PostgreSQL, and React.
 
